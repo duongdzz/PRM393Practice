@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sJJciQYSvA=",
+  "dgSpecHash": "RQYiQ/dGM2s=",
   "success": true,
-  "projectFilePath": "D:\\PRM393\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
+  "projectFilePath": "D:\\PRM393\\PRM393Practice\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

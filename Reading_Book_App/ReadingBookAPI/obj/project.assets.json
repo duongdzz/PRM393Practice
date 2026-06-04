@@ -4780,11 +4780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRM393\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
+      "projectUniqueName": "D:\\PRM393\\PRM393Practice\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
       "projectName": "ReadingBookAPI",
-      "projectPath": "D:\\PRM393\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
+      "projectPath": "D:\\PRM393\\PRM393Practice\\Reading_Book_App\\ReadingBookAPI\\ReadingBookAPI.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\PRM393\\Reading_Book_App\\ReadingBookAPI\\obj\\",
+      "outputPath": "D:\\PRM393\\PRM393Practice\\Reading_Book_App\\ReadingBookAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
