@@ -6,6 +6,24 @@
       <excludeFolder url="file://$MODULE_DIR$/lab2/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/lab2/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/lab2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Reading_Book_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Reading_Book_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Reading_Book_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab7/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
